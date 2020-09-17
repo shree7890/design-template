@@ -1,0 +1,177 @@
+@media screen and (max-width:990px){
+    .banner-caption .form-control{
+        margin-bottom: 20px;
+        padding: 9px 10px;
+    }
+    .banner-caption h4{
+        font-size: 20px;
+    }
+    .banner-caption h2{
+        font-size: 35px;
+    }
+    .author-details{
+        margin-bottom: 100px;
+    }
+    .pricing-item{
+        margin-bottom: 30px;
+    }
+    .navbar-collapse .btn{
+        display: none;
+    }
+    .navbar-light .navbar-toggler:focus{
+        box-shadow: none;
+    }
+}
+@media screen and (max-width:768px){
+    .banner-caption h2{
+        font-size: 25px;
+    }
+    .about-text-left h2{
+        font-size: 28px;
+    }
+    .about-text-left .lead{
+        font-size: 18px;
+    }
+    .counter-item p{
+        font-size: 38px;
+    }
+    .feature-top h2{
+        font-size:28px ;
+    }
+    .feature-top p{
+        font-size: 18px;
+    }
+    .portfolio-top h2{
+        font-size: 28px;
+    }
+    .pricing-table-top.text-center h2{
+        font-size: 28px;
+    }
+    .pricing-table-top p.text-muted{
+        font-size: 18px;
+    }
+    .pricing-textwrap h1{
+        font-size: 28px;
+    }
+    .pricing-textwrap p.text-muted{
+        font-size: 18px;
+    }
+    .pricing-rate ul li{
+        font-size: 17px;
+    }
+    .pricing-rate ul li span i{
+        font-size: 17px;
+    }
+    .testimonial-area h2{
+        font-size: 28px;
+    }
+    .testimonial-area .text-muted{
+        font-size: 18px;
+    }
+    .about-top-text h1{
+        font-size: 32px;
+    }
+    .text-letter p{
+        font-size: 20px;
+    }
+    .content-wrap h1{
+        font-size: 28px;
+    }
+    .myheader .navbar-brand{
+        font-size: 16px;
+    }
+    nav.navbar.navbar-expand-lg.navbar-light.myheader .navbar-brand span {
+        height: 28px;
+        width: 28px;
+        font-size: 22px;
+        border-radius: 7px;
+        line-height: 28px;
+    }
+}
+@media screen and (max-width:430px){
+    .banner-caption h4{
+        font-size: 16px;
+    }
+    .banner-caption h2{
+        font-size: 22px;
+    }
+    .banner-caption .form-control{
+        margin-bottom: 20px;
+        padding: 9px 8px;
+    }
+    .banner-caption input[type=text]{
+        font-size: 16px;
+    }
+    .banner-caption .btn{
+        padding: 9px 8px;
+        font-size: 16px;
+    }
+    .counter-item p{
+        font-size: 30px;
+    }
+    .about-text-left h2{
+        font-size: 20px;
+    }
+    .myheader .navbar-brand{
+        font-size: 20px;
+    }
+    .about-text-left .lead{
+        font-size: 16px;
+    }
+    .feature-top h2{
+        font-size:20px ;
+    }
+    .feature-top p {
+        font-size: 16px;
+    }
+    .portfolio-top h2 {
+        font-size: 20px;
+    }
+    .pricing-table-top.text-center h2 {
+        font-size: 20px;
+    }
+    .pricing-table-top p.text-muted {
+        font-size: 16px;
+    }
+    .pricing-rate ul li {
+        font-size: 14px;
+    }
+    .pricing-rate ul li span i {
+        font-size: 14px;
+    }
+    .pricing-bottom-acess .btn {
+        border-color: #fff;
+        box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,0.3);
+        border-width: 2px;
+        font-weight: bold;
+        font-size: 16px;
+        padding: 8px 10px;
+        background: #fff;
+        color: #328FFE;
+    }
+    .testimonial-area .text-muted {
+        font-size: 16px;
+    }
+    .testimonial-area h2 {
+        font-size: 20px;
+    }
+    .blockquote span{
+        font-size: 50px;
+    }
+    .blockquote p{
+        font-size: 16px;
+    }
+    .about-top-text h1 {
+        font-size: 20px;
+    }
+    .text-letter p {
+        font-size: 16px;
+    }
+    .content-wrap p {
+        font-size: 16px;
+    }
+    .content-wrap h1 {
+        font-size: 20px;
+    }
+    
+}
